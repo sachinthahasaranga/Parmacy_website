@@ -1,0 +1,32 @@
+.mtab {
+    overflow: hidden;
+    border: 1px solid #003d99;
+    background-color: #003d99;
+    text-align: center;
+}
+ 
+
+    .mtab ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    .mtab li {
+        display: inline-block;
+    }
+
+    .mtab li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 8px 16px;
+        text-decoration: none;
+    }
+        .mtab li a:hover:not(.active) {
+            background-color: #001f4d;
+        }
+
+    .mtab .active {
+        background-color: #001f4d;
+    } 
+    

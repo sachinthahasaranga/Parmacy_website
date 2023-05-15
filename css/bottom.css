@@ -1,0 +1,24 @@
+.bottom {
+    margin-top: 150px;
+    background-color: #000033;
+    display: flex;
+    color: white;
+}
+
+.bottom .b1{
+    margin:20px;
+}
+
+.editername {
+    color: white;
+    background-color: #00001a;
+    height: 50px;
+    padding: 20px;
+}
+
+.bottom img {
+    display: block;
+    margin-left: auto;
+    width:606px;
+    height:255px;
+}

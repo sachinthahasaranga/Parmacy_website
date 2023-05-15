@@ -1,0 +1,41 @@
+.contact {
+    display: flex;
+    padding: 20px;
+}
+
+    
+    .contact div{
+        margin:auto;
+        
+    }
+
+.contact p {
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 900;
+}
+    .contact button {
+        width: 300px;
+        height: 50px;
+        background-color: #022897ec;
+        border-color: #022897ec;
+        border-radius: 10px;
+        margin:5px;
+    }
+    .contact a {
+        text-decoration: none;
+        color: white;
+    }
+    /* css for map */
+    .mapouter {
+        position: relative;
+        text-align: right;
+        height: 500px;
+        width: 500px;
+    }
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 500px;
+    width: 500px;
+}

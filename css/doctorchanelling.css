@@ -1,0 +1,40 @@
+
+
+h2 {
+    text-align: center;
+}
+
+.chanel{
+    display:flex;
+    padding:30px;
+	margin:auto;
+    width:80%;
+
+}
+.chanel img{
+    margin:0px 50px;
+    width :300px;
+    height: 300px;
+}
+#submitdoc {
+    border-radius: 10px;
+    margin: 2px;
+    height: 50px;
+    width: 100px;
+    background-color: #6bb2e5;
+    border-color: #6bb2e5;
+}
+.chanel input {
+    border-radius: 10px;
+    margin: 2px;
+    height: 30px;
+    width: 300px;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+#submitdoc:hover {
+    background-color: #001f4d;
+    color: white;
+    border-color: #001f4d;
+}

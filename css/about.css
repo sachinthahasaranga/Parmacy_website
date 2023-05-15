@@ -1,0 +1,24 @@
+.about {
+    display: flex;
+    padding: 150px;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 900;
+}
+.about img{
+    margin:0px 120px 0px 0px;
+    
+}
+.about button {
+    width: 300px;
+    height: 50px;
+    background-color: #022897ec;
+    border-color: #022897ec;
+    border-radius: 10px;
+    margin: 50px 0px;
+}
+
+.about a {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,6 @@
+body{
+    background:url("../image/body.jpg")no-repeat center ;
+    background-size:cover;
+    font-family:monospace;
+    font-size:20px;
+}

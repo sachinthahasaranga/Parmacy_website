@@ -1,0 +1,24 @@
+
+.tab {
+    overflow: hidden;
+    border: 1px solid #003d99;
+    background-color: #003d99;
+    height:30px;
+}
+
+    .tab button {
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 5px 16px;
+        transition: 0.7s;
+        font-size: 15px;
+        color: white;
+        height:30px;
+    }
+
+        .tab button:hover {
+            background-color: #001f4d;
+        }

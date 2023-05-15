@@ -1,0 +1,47 @@
+
+.admin .admin1{
+	display:flex;
+	padding: 50px;
+}
+
+
+.button {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 2px;
+  cursor: pointer;
+  border-radius:10px;
+}
+
+.text{
+	display:flex;
+	padding: 30px;
+}
+.admin {
+	display:flex;
+	padding:10px;
+}
+
+#text {
+  border-radius: 25px;
+  background: #add8e6;
+  padding: 20px;
+  width: 400px;
+  height: 600px;
+}
+table {
+	border-collapse: collapse;
+	background: white;
+	color: black;
+}
+
+th,
+td {
+	font-weight: bold;
+}
